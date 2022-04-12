@@ -1,7 +1,7 @@
-require_relative File.expand_path('lib/book')
+require_relative File.expand_path('lib/loja_virtual')
 require "test/unit"
 
-class TestBookShop < Test::Unit::TestCase
+class TestBook < Test::Unit::TestCase
     def setup
         @classe = Livro.new('Mauricio', 123, '4124', 60.9)
     end
@@ -20,3 +20,4 @@ class TestBookShop < Test::Unit::TestCase
 
 
 end
+
