@@ -1,0 +1,40 @@
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio Aniche
+numero_de_paginas: 123
+isbn: '1234'
+preco: 10
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio
+numero_de_paginas: 123
+isbn: '2423'
+preco: 10
+categoria: :teste
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio
+numero_de_paginas: 123
+isbn: '2423'
+preco: 10
+categoria: :teste
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio
+numero_de_paginas: 123
+isbn: '2423'
+preco: 10
+categoria: :teste
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio
+numero_de_paginas: 123
+isbn: '2423'
+preco: 10
+categoria: :teste
+
